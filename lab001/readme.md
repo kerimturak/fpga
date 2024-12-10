@@ -30,3 +30,6 @@ There is no timing since this design is purely combinational, otherwise we'd see
 # Note
 Do you occasionally see one flicker as the switches are flipped?
 - Yes
+
+# Youtube
+[Watch the video on YouTube](https://img.youtube.com/vi/abc123/0.jpg)
